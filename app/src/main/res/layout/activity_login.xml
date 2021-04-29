@@ -41,7 +41,7 @@
             android:layout_height="wrap_content"
             android:layout_gravity="center"
             android:backgroundTint="#006793"
-            android:text="Login" />
+            android:text="LOGIN" />
 
     </GridLayout>
 
